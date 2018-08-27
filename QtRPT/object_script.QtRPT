@@ -1,0 +1,15 @@
+INPUT(
+./tmp-win32\CommonClasses.o
+./tmp-win32\numbertoarabicword.o
+./tmp-win32\Barcode.o
+./tmp-win32\qtrpt.o
+./tmp-win32\RptSql.o
+./tmp-win32\RptFieldObject.o
+./tmp-win32\RptBandObject.o
+./tmp-win32\RptPageObject.o
+./tmp-win32\RptCrossTabObject.o
+./tmp-win32\qrc_imagesRpt.o
+./tmp-win32\moc_Barcode.o
+./tmp-win32\moc_qtrpt.o
+./tmp-win32\moc_RptSql.o
+);
